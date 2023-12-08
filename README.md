@@ -4,7 +4,7 @@ https://docs.google.com/spreadsheets/d/1c9FvwA-l3XIkO4W1onp5Gq2lg3tmduUkxf9V1MNI
 
 and this is python code using google colab:
 
-https://colab.research.google.com/drive/10HJuW2gW1pueKBOMiWRrQ0uuhDsAi8OT
+
 
 
 
